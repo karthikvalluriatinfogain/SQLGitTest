@@ -1,4 +1,4 @@
 CREATE TABLE [dbo].[Tables] (
-	[col1] int not null,
-	[col2] varchar (100) not null
+	[col01] int not null,
+	[col02] varchar (100) not null
 )
